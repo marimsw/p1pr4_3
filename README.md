@@ -3,15 +3,15 @@
 ми столбцов  .Первые 11 столбцов содержат значения химических величин, 
  а последний — органолептическую оценку качества, от 0 (очень плохо) до 10 .(ве
 ликолепно)  .Вот названия столбцов в порядке их появления в наборе данных:
- fixed acidity
- volatile acidity
- citric acid
- residual sugar
- chlorides
- free sulfur dioxide
- total sulfur dioxide
- density
- pH
- sulphates
- alcohol
- quality
+ fixed acidity       
+ volatile acidity       
+ citric acid        
+ residual sugar       
+ chlorides        
+ free sulfur dioxide        
+ total sulfur dioxide        
+ density      
+ pH     
+ sulphates           
+ alcohol     
+ quality       
